@@ -44,6 +44,9 @@ Welcome to my GitHub profile! I'm a college student passionate about problem-sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suysri23&layout=donut&theme=react-dark&hide_border=false&langs_count=8" alt="Top Languages"/>
 </p>
 
+![snake gif](https://github.com/Suysri23/Suysri23/blob/output/github-contribution-grid-snake.svg)
+
+
 <!-- GitHub Stats Card -->
 [![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suysri23&show_icons=true&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
