@@ -1,6 +1,10 @@
 Hi there, I'm Suyash! 👋
 
-Welcome to my GitHub profile! I'm a college student passionate about problem-solving, artificial intelligence, and quantum chemistry. I enjoy tackling complex challenges and building structured, engaging solutions.
+I'm a developer and problem-solver focused on building intelligent systems that bridge software, AI and scientific computing. My work spans machine learning applications, real-time interactive systems, and computational problem-solving - with a strong interest in aerospace tech and quantum-driven simulations.
+
+I enjoy turning complex ideas into strucutured, working solutions, whether that means desigining AI pipelines, building interactive web systems, or engineering tools that make scientific concepts more tangible.
+
+Currently exploring deeper intersections of AI, systems design and high-performance computing.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_suyash_srivastava/)
